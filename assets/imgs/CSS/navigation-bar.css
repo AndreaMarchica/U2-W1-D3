@@ -1,0 +1,36 @@
+nav img {
+  width: 50%;
+}
+nav div {
+  width: 140px;
+  height: 40px;
+  background-color: #ffdf7f;
+  color: #711e00;
+  border-radius: 30%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0.2em;
+}
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #fef7e2;
+  width: 60%;
+  height: 130px;
+  margin: 0 auto;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+  border-radius: 30%;
+}
+.logoshop {
+  height: 80px;
+  width: 170px;
+  padding: 0.2em 1em;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-weight: bold;
+  font-size: 1.5em;
+}

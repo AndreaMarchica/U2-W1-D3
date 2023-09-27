@@ -1,0 +1,41 @@
+main {
+  width: 250px;
+  height: 300px;
+  border-radius: 3.5em;
+  background-color: #fef7e2;
+  font-weight: 400;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+  width: 100%;
+  border-radius: 4em 4em 0 0;
+}
+button {
+  border: none;
+  background-color: #ffdf7f;
+  padding: 0.5em 2em;
+  border-radius: 2em;
+  color: #711e00;
+  text-align: center;
+}
+.text {
+  color: #711e00;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+}
+h3 {
+  font-weight: 700;
+  margin-bottom: 0;
+}
+.info {
+  text-align: center;
+}
+p {
+  margin-top: 0.2em;
+}
+.a {
+  align-self: center;
+}
